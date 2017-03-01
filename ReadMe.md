@@ -5,7 +5,7 @@
 # Simple outcome of the program
 Displaying shapes in random area
 
-<img src='http://imgur.com/G5EPndy' title='Shape' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/G5EPndy.gif' title='Shape' width='' alt='Video Walkthrough' />
 
 
 # Thanks
